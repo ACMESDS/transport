@@ -2,7 +2,7 @@
   "name": "transport",
   "version": "1.0.0",
   "description": "TOTEM module to machine learn transport equations",
-  "main": "temp.js",
+  "main": "transport.js",
   "scripts": {
     "test": "node test.js X1"
   },
