@@ -1,0 +1,19 @@
+{
+  "name": "transport",
+  "version": "1.0.0",
+  "description": "TOTEM module to machine learn transport equations",
+  "main": "temp.js",
+  "scripts": {
+    "test": "node test.js X1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmesds/transport.git"
+  },
+  "author": "totem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acmesds/transport/issues"
+  },
+  "homepage": "https://github.com/acmesds/transport#readme"
+}
